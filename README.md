@@ -1,174 +1,123 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=200&section=header&text=Hee%20Xin%20You&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Cybersecurity%20Professional&descSize=15&descAlignY=58" width="100%" />`{=html}
+<div align="center">
 
-# Hi, I'm Hee 馃憢
+# Hi there, I'm HEE XIN YOU 👋
 
-### Computer Science Student \| Aspiring Cybersecurity Professional
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Year+1+Network+Security+Student;Learning+C%2B%2B+Programming;Exploring+the+World+of+Cybersecurity" alt="Typing animation" />
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Technology;Learning+%26+Building+Every+Day;Interested+in+Networks+%26+Cybersecurity;Turning+Curiosity+Into+Skills" />`{=html}
+### 🔐 Network Security Student | 💻 C++ Learner
 
-`<br/>`{=html}
+Universiti Teknologi Malaysia (UTM)
 
-[![GitHub
-followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=0F172A)](https://github.com/YOUR_USERNAME)
-[![GitHub
-stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=164E63)](https://github.com/YOUR_USERNAME)
-:::
+<br/>
 
-------------------------------------------------------------------------
+![Network Security](https://img.shields.io/badge/Network_Security-0F172A?style=for-the-badge&logo=hackthebox&logoColor=22D3EE)
+![C++](https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=659AD2)
+![Student](https://img.shields.io/badge/Year_1_Student-0F172A?style=for-the-badge&logo=academia&logoColor=A78BFA)
 
-## 馃懆鈥嶐煉� About Me
+</div>
 
-``` yaml
-Name: Hee Xin You
-Nickname: Hee
-University: Universiti Teknologi Malaysia (UTM)
-Degree: Bachelor of Computer Science
-Specialization: Computer Networks and Security
-Current Status: First-Year Undergraduate Student
-Location: Johor, Malaysia
+---
 
-Interests:
-  - Cybersecurity
-  - Computer Networks
-  - Software Development
-  - Technology & Innovation
+## 👩‍💻 About Me
 
-Currently Learning:
-  - C++ Programming
-  - Git & GitHub
-  - Computer Science Fundamentals
-```
+Hello! I'm HEE XIN YOU, a first-year Network Security student at Universiti Teknologi Malaysia (UTM).
 
-I'm a Computer Science undergraduate at **Universiti Teknologi Malaysia
-(UTM)** with a growing interest in computer networks, cybersecurity, and
-software development.
+I'm currently building my programming knowledge with C++ while exploring the field of network security.
 
-Currently, I'm focused on strengthening my programming fundamentals,
-understanding how computer systems work, and developing practical
-technical skills.
+As I progress through my studies, I hope to use this GitHub profile to document my learning journey and share my future projects.
 
-I believe in continuous learning, experimenting with new technologies,
-and turning theoretical knowledge into real-world applications.
+- 🎓 Education: Year 1, Network Security, UTM
+- 💻 Programming Language: C++
+- 🔐 Academic Interest: Network Security
+- 🌱 Current Focus: Learning and developing technical skills
+- 📚 GitHub Journey: Documenting my progress as a student
 
-> "Stay curious. Keep learning. Build something meaningful."
+---
 
-## 馃洜锔� Technical Skills
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45" />`{=html}
-```{=html}
-</p>
-```
-### Tools & Technologies
+<div align="center">
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="45" />`{=html}
-```{=html}
-</p>
-```
-### Currently Exploring
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
 
--   C++ and problem-solving
--   Data structures and algorithms
--   Computer networking fundamentals
--   Cybersecurity concepts
--   Version control with Git and GitHub
+<br/>
 
-*Skill levels are intentionally not rated. This section will grow as I
-gain more hands-on experience.*
+C++
 
-## 馃敩 Research Interests
+</div>
 
--   **Network Security** --- Understanding network vulnerabilities,
-    protocols, and defensive techniques.
--   **Cybersecurity** --- Learning about system security, threat
-    detection, and security fundamentals.
--   **Computer Networks** --- Exploring how devices communicate and how
-    network infrastructure works.
--   **Artificial Intelligence** --- Understanding how AI can influence
-    software development and cybersecurity.
--   **Secure Software Development** --- Building applications with
-    security and reliability in mind.
+---
 
-## 馃殌 Featured Projects
+## 🔬 Research Interests
 
-*A collection of my learning journey, experiments, and future
-development projects.*
+### 🔐 Network Security
 
-  Project       Description                      Technologies
-  ------------- -------------------------------- ---------------
-  Coming Soon   My first programming project     C++
-  Coming Soon   Networking-related project       To be updated
-  Coming Soon   Cybersecurity learning project   To be updated
+My primary area of interest is Network Security.
 
-```{=html}
-<!--
-When you have completed a project, replace the placeholders above.
-Suggested format:
+As a first-year student, I am at the beginning of my academic journey and look forward to developing a deeper understanding of this field.
 
-### Project Name
-A concise description of what the project does.
+I plan to use my studies and future practical work to explore network security concepts.
 
-- Technologies: C++, Python, etc.
-- Key Features: Feature 1, Feature 2
-- Repository: [View Project](YOUR_PROJECT_URL)
--->
-```
-## 馃搳 GitHub Statistics
+---
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=C9D1D9" />`{=html}
+## 🚀 Featured Projects
 
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9" />`{=html}
+### 🌱 My Development Journey
 
-`<br/>`{=html}
+I'm currently in my first year of university and have not added any featured projects yet.
 
-`<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" width="70%" />`{=html}
-:::
+This section will be updated as I complete coursework, programming exercises, and future projects that I choose to share.
 
-### Contribution Activity
+Stay tuned for future updates!
 
-::: {align="center"}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=06B6D4&line=0891B2&point=FFFFFF&area=true&hide_border=true" width="100%" />`{=html}
-:::
+---
 
-## 馃弳 Achievements & Learning Journey
+## 📊 GitHub Statistics
 
--   馃帗 Graduated from UTM Foundation with a CGPA of **3.85**.
--   馃帗 Currently pursuing a Bachelor's Degree in Computer Science at
-    UTM.
--   馃捇 Building programming fundamentals through hands-on practice.
--   馃尡 Exploring GitHub and open-source development.
--   馃攼 Developing an interest in cybersecurity and computer networks.
+<div align="center">
 
-## 馃幆 Current Goals
+<img src="https://github-readme-stats.vercel.app/api?username=1109xinyou-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1" alt="GitHub Stats" />
 
--   [ ] Strengthen my C++ programming fundamentals.
--   [ ] Become comfortable with Git and GitHub workflows.
--   [ ] Build and publish my first independent project.
--   [ ] Develop practical networking and cybersecurity skills.
--   [ ] Explore open-source projects and contribute to the community.
--   [ ] Build a portfolio that demonstrates real technical abilities.
+<br/>
 
-## 馃摣 Let's Connect
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1109xinyou-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" alt="Top Languages" />
 
-I'm always open to connecting with fellow students, developers, and
-technology enthusiasts.
+<br/>
 
-::: {align="center"}
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<img src="https://streak-stats.demolab.com?user=1109xinyou-hash&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub Streak" />
 
-`<br/>`{=html}
+</div>
 
-### 馃挕 "The best way to learn is to build."
+---
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:0F172A&height=100&section=footer" width="100%" />`{=html}
+## 🏆 Achievements & Milestones
+
+### 📍 Starting My Journey
+
+- 🎓 Studying Network Security at Universiti Teknologi Malaysia
+- 💻 Learning C++ programming
+- 🔐 Exploring network security as an academic interest
+
+*This section will grow as I gain experience and reach new milestones.*
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+I'm happy to connect with fellow students and people interested in technology and network security.
+
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:1109xinyou@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/1109xinyou-hash)
+
+<br/>
+
+Thank you for visiting my GitHub profile!
+
+*Learning step by step, building knowledge for the future.*
+
+</div>
