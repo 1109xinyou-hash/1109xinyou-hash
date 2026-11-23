@@ -1,20 +1,31 @@
-## Hi there 👋
-Name:HEE XIN YOU
-AGE: 19
-ACADEMIC BACKGROUND: SPM
-CURRENT STUDIES: UTM NETWORK SECURITY 
-CAREER GOALS: NETWORK SECURITTY
-<!--
-**1109xinyou-hash/1109xinyou-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Hee Xin You
 
-Here are some ideas to get you started:
+🎓 First-year Computer Science student at Universiti Teknologi Malaysia (UTM).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Programming, Computer Networks & Cybersecurity.
+
+🌱 Currently learning:
+
+- C++
+- Git & GitHub
+- Programming Fundamentals
+
+🎯 Goals:
+
+- Improve my programming skills.
+- Build personal projects.
+- Explore the world of cybersecurity.
+
+🛠️ Languages & Tools
+
+- C++
+- Git
+- GitHub
+
+📫 Connect with me
+
+Feel free to explore my repositories and follow my learning journey!
+
+---
+
+⭐ Always learning, always improving.
