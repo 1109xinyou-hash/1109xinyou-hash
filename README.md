@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+Name:HEE XIN YOU
+AGE: 19
+ACADEMIC BACKGROUND: SPM
+CURRENT STUDIES: UTM NETWORK SECURITY 
+CAREER GOALS: NETWORK SECURITTY
 <!--
 **1109xinyou-hash/1109xinyou-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
